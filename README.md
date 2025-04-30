@@ -29,8 +29,8 @@ Ekstensi Chrome ringan untuk membuat catatan cepat langsung di halaman web mana 
 ## ⌨️ Shortcut
 
 | Tombol                          | Fungsi                        |
-|-------------------------------|-------------------------------|
-|          `Alt` + `N`          | Tampilkan/sembunyikan note   |
+|---------------------------------|-------------------------------|
+|          `Alt` + `N`            | Tampilkan/sembunyikan note    |
 
 ---
 
@@ -38,12 +38,6 @@ Ekstensi Chrome ringan untuk membuat catatan cepat langsung di halaman web mana 
 
 ![Preview](preview.png)  
 *Tampilan minimalis dan dapat dipindahkan ke mana saja.*
-
----
-
-## 📁 Struktur Proyek
-
-minimalist-notes/ ├── manifest.json # Konfigurasi ekstensi ├── injectNoteBox.js # Script utama ├── icons/ │ └── icon128.png # Ikon ekstensi ├── preview.png # Cuplikan layar (opsional) └── README.md # Dokumentasi ini
 
 ---
 
