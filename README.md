@@ -34,13 +34,6 @@ Ekstensi Chrome ringan untuk membuat catatan cepat langsung di halaman web mana 
 
 ---
 
-## 🖼️ Tampilan
-
-![Preview](preview.png)  
-*Tampilan minimalis dan dapat dipindahkan ke mana saja.*
-
----
-
 ## 📃 Lisensi
 
 MIT License  
